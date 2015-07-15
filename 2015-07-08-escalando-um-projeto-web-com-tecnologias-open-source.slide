@@ -1,0 +1,99 @@
+Escalando um projeto web com tecnologias open source
+Tags: http, server, escalar, web, open, source, open-source
+
+Thiago Avelino
+thiago@avelino.xxx
+@avelino0
+github.com/avelino/slides
+
+* Matemático pelo IME-USP
+
+thiago@avelino.xxx
+twitter.com/avelino0
+
+.image ./imgs/filho.jpg 450 450
+
+* filmow.com
+
+Rede social de filmes e séries
+
+.image ./imgs/logo_filmow.png
+
+
+* samba*****.com (+18)
+
+~55 milhões de pageview dia
+
+* A Historia (samba)
+
+- bookmark
+- wordpress
+- python
+- estático (html)
+- Grande volume de dados (BigData)
+- Tempo de processamento
+- Go veio solucionar muitos problemas
+
+* Arquitetura de software
+
+.image ./imgs/arquitetura.png 500 700
+
+* NoSQL resolve meu problema?
+
+Problema de escalabilidade? Só colocar MongoDB! #SQN
+
+.image ./imgs/nosql.png
+
+* Banco Relacional
+
+- Migração de dados, sempre da dor de cabeça.
+- Integração Contínua e o processo Agile
+
+.image ./imgs/relational.jpg
+
+* Conteinerização
+
+- LXC (Docker)
+- OpenVZ
+- Jail
+
+.image ./imgs/conteinerization.png
+
+* Servidor HTTP
+
+- NGINX
+- Apache
+- Caddy - caddyserver.com
+
+* Caddy
+
+Porque vou usar um servidor HTTP diferente?
+
+- Suporte http/2
+- git (sim ele conecta em um repositorio git)
+- startup (dispara comanda ao ligar o servidor)
+- shutdown (dispara comando ao desligar o servidor)
+- markdown
+
+.image ./imgs/http2.png
+
+* Minha infra (hoje)
+
+Não existe bala de prata, funciona para o *samba*
+
+- Docker (debian)
+- Caddy (servidor http)
+- PostgreSQL (banco relacional)
+- Redis (fila e cache)
+- ElasticSearch (full text search)
+- Thumbor (servidor de imagem)
+
+* Load Balancer
+
+- Servidor de DNS
+- NGNIX
+- Caddy
+
+* PythonBrasil[11]
+
+.image ./imgs/pybr11.png 500 800
