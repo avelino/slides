@@ -1,0 +1,86 @@
+Como Software Livre pode ajudar a evolução (ou criação) de empresas
+Tags: empreender, bootstrap, software-livre, opensource
+
+Thiago Avelino
+thiago@avelino.xxx
+@avelino0
+
+* Matemático pelo IME-USP
+
+thiago@avelino.xxx
+twitter.com/avelino0
+youtube.com/thiagoavelino (videos sobre empreendedorismo, startup)
+
+.image ./imgs/eu-now.jpg 450 450
+
+* Quem é empreendedor ou pensa em ter uma StartUp (Empresa)?
+
+* "Sempre" usamos a melhor tecnologia?
+.caption Mas Go é melhor que Python!
+.caption Essas debates sempre vai existir. É excelente que exista para pessoas de tecnologias diferentes converse e se conheça
+.image ./imgs/vs.png
+
+* Avelino como desenvolvedor?
+.caption github.com/avelino
+.image ./imgs/logo_mongodb.png
+.image ./imgs/logo_mongoengine.png
+
+* Avelino como desenvolvedor?
+.caption github.com/avelino
+.image ./imgs/logo_golang.png
+.image ./imgs/logo_plone.png
+
+* Avelino como desenvolvedor?
+.caption github.com/avelino
+.image ./imgs/logo_django.png
+.image ./imgs/logo_bottle.png
+
+* Meus projetos (empresas)?
+
+.image ./imgs/logo_filmow.png 150 400
+.image ./imgs/logo_poorny.png
+.image ./imgs/logo_nuveo.png 200 400
+
+* Usar a melhor tecnologia não sai barato!
+
+* Sou desenvolvedor e sei que gostamos de usar a melhor tecnologia
+
+* Profissionais no mercado?
+
+* Nuveo e Poorny, são escritas em Go
+
+- Contratar profissionais
+- Treina profissionais
+- Custo de profissional
+- Tempo de começa anda sozinho (entrega recursos novos)
+- Go é uma linguagem tipada e compilada, profissionais de linguagens dinamica (Python, Ruby e etc) tem dificuldade com isso
+- Eco sistema de bibliotecas não esta tão resolvido como Python e/ou Ruby
+- ...
+
+* Case, empresa comprada pelo pornhub (+18)
+
+* Case do filmow.com
+
+- Breve historia, existe desde 2009
+- Saida do CTO em 2013
+- 2014 ano do freela (entenda o problema)
+- 2015 entrada do Avelino (como estava)
+- Melhorias:
+  De MySQL para PostgreSQL
+  Site responsivo, media de 30% acessa via mobile (browser)
+  API Rest para app mobile
+  Reescrita da busca usando ElasticSearch da forma correta
+  Novos recursos no site: Grupo de usuarios, Recomendação de filmes e outros
+  ...
+
+* A tecnologia X não tem suporte, a comunidade nunca ajuda
+
+* Como eu faço para selecionar a tecnologias nos meus projetos?
+
+- Visão desenvolvedor
+- Visão empreendedor
+
+* Licença de Software
+
+* Conheça a empresa certa para solucionar o seu problema
+.caption O FISL lhe ajuda com isso, usa os eventos que você vai para fazer NETWROK
